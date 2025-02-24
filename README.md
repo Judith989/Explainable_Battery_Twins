@@ -1,2 +1,2 @@
 # Explainable_Battery_Twins
-This respository provides details on developing XAI models for digital twin batteries.
+This details the experimentation for evaluating XAI application to explainability of predictions of AI models which will serve as digital twins for BMS
